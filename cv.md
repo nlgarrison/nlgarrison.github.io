@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 ---
 ## EDUCATION 
 * 2018 PhD Auburn University, Department of Biological Sciences 
