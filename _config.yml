@@ -26,12 +26,8 @@ navbar-links:
   About Me: "aboutme"
   Research: 
     - Phylogenetics: "research"
-    - Conservation Genomics "research"
-    - Systematics "research"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Conservation Genomics: "research"
+    - Systematics: "research"
   Outreach: "outreach"
   Bioinformatics: "bioinfo"
 
