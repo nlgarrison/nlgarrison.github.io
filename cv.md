@@ -2,15 +2,15 @@
 layout: minimal
 subtitle: curriculum vitae
 ---
-## EDUCATION 
-* 2018 PhD Auburn University, Department of Biological Sciences 
-** Dissertation: Phylogenomics and systematics of the Aptostichus atomarius species 
+#### EDUCATION 
+2018 PhD Auburn University, Department of Biological Sciences 
+Dissertation: Phylogenomics and systematics of the Aptostichus atomarius species 
 complex (Araneae, Mygalomorphae, Euctenizidae) Supervisor: Dr. Jason E. Bond 
 
 2009 B.S. West Liberty University 
 Major: Biology/Chemistry (Environmental Science) Minor: Geography 
 
-RESEARCH and TEACHING EXPERIENCE 
+### RESEARCH and TEACHING EXPERIENCE 
 
 Auburn University 
 
@@ -124,9 +124,7 @@ tissue culture, tissue dissection.
 • Morphological – Identification using taxonomic keys and revisions, insect pinning and 
 preservation, desiccation, microscopy of invertebrates, dissection, preservation of vouchered 
 tissues, rehydration, digital measurement, photography 
-Computing 
-
-
+Computing
 • Software – Microsoft Office Suite, Adobe Creative Suite, Inkscape, FigTree, ArcGIS and 
 QGIS, TASSEL, STRUCTURE, Stacks, Geneious, BLAST, Exonerate, Trimmomatic, Trinity, 
 Ray, bowtie, samtools, BWA, IGV, FastQC, RAxML, IQ-TREE, ExaBayes, TransDecoder, 
@@ -136,41 +134,34 @@ Analysis Library)
 • R packages – LEA, PHRAPL, BioGEOBears, BAMMtools, PopGenome, DEseq, misc. 
 statistical and visualization packages 
 • Languages – Bash/Shell (esp. sed, grep, awk), Python, R 
-AWARDS and SCHOLARSHIPS 
 
-
+#### AWARDS and SCHOLARSHIPS 
+
 2016 BSGSA travel award 
 2014 European Society of Arachnology Student Presentation Competition, 3rd place 
 2012 NSF Graduate Research Fellowship 2009 West Liberty University Outstanding Biology 
 2014 European Society of Arachnology Student Presentation Competition, 3rd place 
-2012 NSF Graduate Research Fellowship 2009 West Liberty University Outstanding Biology 
-
+2012 NSF Graduate Research Fellowship 2009 West Liberty University Outstanding Biology
 Student of the Year 
 
-PRESENTATIONS 
+#### PRESENTATIONS 
 2018 (Invited Talk) Nicole L. Garrison, Jason E. Bond, Chris A. Hamilton. Exploration of 
-species boundaries in a trapdoor spider complex: an integrative next-generation sequencing 
-
+species boundaries in a trapdoor spider complex: an integrative next-generation sequencing
 approach. Systematics, Evolution, and Biodiversity Section. Entomological Society of America 
 Joint Meeting. Vancouver, BC, Canada. 
-2016 (Invited Talk) Nicole L. Garrison. Life Underground: Challenges in Mygalomorph 
-
+2016 (Invited Talk) Nicole L. Garrison. Life Underground: Challenges in Mygalomorph
 Spider Systematics. E.O. Grundset Lecture Series. SAU, Collegedale, Tennessee. 
-2016 Nicole L. Garrison, Jason E. Bond. Investigating species boundaries in a 
-
+2016 Nicole L. Garrison, Jason E. Bond. Investigating species boundaries in a
 trapdoor spider species complex using anchored hybrid enrichment. International Congress of 
 Arachnology. Golden, Colorado. 
-2015 Nicole L. Garrison, Jason E. Bond. Assessing species boundaries in a trap 
-
+2015 Nicole L. Garrison, Jason E. Bond. Assessing species boundaries in a trap
 door spider complex: a genotyping-by-sequencing approach. SEEC. Athens, Georgia. 
-2014 (Invited Talk) Nicole L. Garrison, Jason Bond. Evaluating species boundaries in the 
-
+2014 (Invited Talk) Nicole L. Garrison, Jason Bond. Evaluating species boundaries in the
 Aptostichus atomarius (Araneae, Euctenizidae) sibling species complex (CA): a 
 genotyping-by-sequencing based approach. European Society of Arachnology. Torino, Italy. 
 2014 (Poster) Jason E. Bond, Nicole L. Garrison, Chris A. Hamilton, Rebecca L. 
 
-Godwin, Marshal Hedin, Ingi Agnarsson. Spider Phylogenomics Shifts the Paradigm for the 
-
+Godwin, Marshal Hedin, Ingi Agnarsson. Spider Phylogenomics Shifts the Paradigm for the
 History of Earth’s Most Diverse Predator Lineage. Evolution. Raleigh, North Carolina. 
 2013 Nicole L. Garrison, Jason E. Bond. Searching for genetic signals of dune 
 adaptation in the Aptostichus atomarius species complex (CA): de-novo transcriptome assembly 
@@ -180,40 +171,24 @@ and characterization. SEEC. Orlando, Florida.
 novo assembly of a non-model organism Aptostichus stephencolberti. Auburn University 
 Graduate Scholars Forum. Auburn, Alabama. 
 
-LEADERSHIP and OUTREACH 
+#### LEADERSHIP and OUTREACH 
 
-Auburn Museum of Natural History 
+###### Auburn Museum of Natural History 
 
-2014 – 2017 Field Days, Wehle Nature Center. Designed science programming for K-8 class 
-
-
-groups, hands-on outdoor activity on spider/insect biology. 
-
-2013 – 2017 AUMNH Open House. Presented live and preserved arachnid and millipede 
-specimens to public. 
-2015 – 2016 Junior Curator Camp, Auburn Campus and abroad. Assisted with field collection of 
-
+2014 – 2017 Field Days, Wehle Nature Center. Designed science programming for K-8 class groups, hands-on outdoor activity on spider/insect biology. 
+2013 – 2017 AUMNH Open House. Presented live and preserved arachnid and millipede specimens to public. 
+2015 – 2016 Junior Curator Camp, Auburn Campus and abroad. Assisted with field collection of
 invertebrates and on-site identifications. 
 
-College of Sciences and Mathematics Outreach 
-
+###### College of Sciences and Mathematics Outreach 
 2015 – 2017 Greater East Alabama Regional Science and Engineering Fair. Judge, grades 7-12. 
 2014 – 2017 AU Explore. Volunteer presenter of arachnid specimens, middle school students. 
 2015 Summer Science Institute. Assisted rising seniors with field collection. 
-
 2013 & 2015 GUTS. Designed/presented programming for K-6 students. 
-
 2013 Annual Women’s Leadership Symposium in Science and Mathematics. Panelist and 
 breakout session presenter, high school girls from throughout state. Graduate Women in Science 
-2015 – 2017 Junior Mad Scientist. Designed interactive biology programming for K-6 students. 
-
-Miller Writing Center/University Honors College 
-2012 – 2015 NSF Graduate Research Fellowship Program Application Workshop. Served on 
-panel of NSF Fellows, spoke to students about grant writing and successful fellowship 
-
-applications, interactive personal statement writing session. NSF Research Experiences for 
+2015 – 2017 Junior Mad Scientist. Designed interactive biology programming for K-6 students. Miller Writing Center/University Honors College 
+2012 – 2015 NSF Graduate Research Fellowship Program Application Workshop. Served on panel of NSF Fellows, spoke to students about grant writing and successful fellowship applications, interactive personal statement writing session. NSF Research Experiences for 
 Undergraduates (REU) 
-2016 – 2017 Assisted undergraduates in the Computational Biology summer program during 
-
-Bioinformatics Bootcamp. Informal presentation on careers in biology. 
+2016 – 2017 Assisted undergraduates in the Computational Biology summer program during Bioinformatics Bootcamp. Informal presentation on careers in biology. 
 2012 Mentored undergraduate during REU sponsored spider phylogeography project. 
