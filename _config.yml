@@ -23,10 +23,10 @@ description: Nicole L. Garrison, PhD
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  CV: "cv"
   Research: 
     - Phylogenetics: "research"
-    - Conservation Genomics: "research"
+    - Conservation: "research"
     - Systematics: "research"
   Outreach: "outreach"
   Bioinformatics: "bioinfo"
