@@ -4,14 +4,6 @@ title: CV
 subtitle: 
 use-site-title: true
 ---
-
-Nicole L. Garrison 
-
-
-Postdoctoral Research Fellow, 203 Swingle Hall, Auburn University, AL 36849 
-334.844.3470 (work) | 304.650.5900 (cell) | nlg0006@auburn.edu 
-
-
 EDUCATION 
 2018 PhD Auburn University, Department of Biological Sciences 
 Dissertation: Phylogenomics and systematics of the Aptostichus atomarius species 
