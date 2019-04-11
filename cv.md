@@ -4,9 +4,9 @@ title: CV
 subtitle: 
 use-site-title: true
 ---
-#EDUCATION 
-**2018 PhD Auburn University, Department of Biological Sciences 
->>*Dissertation: Phylogenomics and systematics of the Aptostichus atomarius species 
+## EDUCATION 
+* 2018 PhD Auburn University, Department of Biological Sciences 
+** Dissertation: Phylogenomics and systematics of the Aptostichus atomarius species 
 complex (Araneae, Mygalomorphae, Euctenizidae) Supervisor: Dr. Jason E. Bond 
 
 2009 B.S. West Liberty University 
