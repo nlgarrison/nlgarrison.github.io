@@ -17,7 +17,7 @@ baseurl: ""
 title: Home
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Nicole L. Garrison, PhD
 
 # --- Navigation bar options --- #
 
@@ -45,7 +45,7 @@ avatar: "/img/12801514_10153990369559246_8082366568768435911_n.jpg"
 
 navbar-col: "#330033"
 navbar-text-col: "#e6e8ed"
-navbar-children-col: "#e6e8ed"
+navbar-children-col: "#330033"
 page-col: "#e6e8ed"
 link-col: "#008AFF"
 hover-col: "#0085A1"
