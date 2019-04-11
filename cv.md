@@ -1,5 +1,6 @@
 ---
 layout: minimal
+subtitle: curriculum vitae
 ---
 ## EDUCATION 
 * 2018 PhD Auburn University, Department of Biological Sciences 
