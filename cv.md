@@ -1,5 +1,8 @@
 ---
 layout: page
+title: CV
+subtitle: 
+use-site-title: true
 ---
 
 Nicole L. Garrison 
