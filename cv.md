@@ -1,8 +1,5 @@
 ---
 layout: page
-title:
-subtitle: 
-use-site-title: true
 ---
 ## EDUCATION 
 * 2018 PhD Auburn University, Department of Biological Sciences 
@@ -219,26 +216,3 @@ Undergraduates (REU)
 
 Bioinformatics Bootcamp. Informal presentation on careers in biology. 
 2012 Mentored undergraduate during REU sponsored spider phylogeography project. 
-
-_ 
-
-REFERENCES 
-
-Dr. Nathan Whelan (Postdoctoral Supervisor) - Director of the Southeast Conservation Genetics 
-Laboratory. USFWS/Auburn University, Auburn, AL, 36849 
-nathan_whelan@fws.gov 
-Dr. Jason Bond (Graduate Supervisor) - Professor and Schlinger Chair in Insect Systematics, 
-Department of Entomology and Nematology, Academic Surge Building 1282, University of 
-California Davis, Davis, CA 95616-5270 
-
-
-530.754.5805 | jbond@ucdavis.edu 
-Dr. Zachary Loughman (Undergraduate Mentor) - Professor of Biological Sciences Department 
-of Natural Sciences and Mathematics West Liberty University, West Liberty, WV 26074 
-
-
-
-304.336.8923 | zloughman@westliberty.edu 
-
-
-
