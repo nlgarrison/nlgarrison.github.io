@@ -59,7 +59,7 @@ Major: Biology/Chemistry (Environmental Science) Minor: Geography
 
 **2012** Bond, J. E., Hamilton, C. A., **Garrison, N.L.**, & Ray, C. H. Phylogenetic reconsideration of Myrmekiaphila systematics with a description of the new trapdoor spider species Myrmekiaphila tigris (Araneae, Mygalomorphae, Cyrtaucheniidae, Euctenizinae) from Auburn, Alabama. ZooKeys, (190), 95. 
 
-**2010** Loughman Z.J., **Garrison N.L.**, Welsh S.A., Simon T.P. Zoogeography, conservation, and ecology of crayfishes within the Cheat River basin of the upper Monongahela River drainage, West Virginia. Proceedings of the West Virginia Academy of Sciences, (82),1. [PDF](/assets/LoughmanGarrison2009.pdf)
+**2010** Loughman Z.J., **Garrison N.L.**, Welsh S.A., Simon T.P. Zoogeography, conservation, and ecology of crayfishes within the Cheat River basin of the upper Monongahela River drainage, West Virginia. Proceedings of the West Virginia Academy of Sciences, (82),1. [PDF](/assets/Loughmanetal.2009-CheatRiverPaper.pdf)
 
 ### RELEVANT SKILLS 
 
