@@ -1,9 +1,9 @@
 ---
-layout: minimal
+layout: page
 subtitle: curriculum vitae
 ---
 ### EDUCATION 
-2018 PhD Auburn University, Department of Biological Sciences 
+#### 2018 ##### PhD Auburn University, Department of Biological Sciences 
 Dissertation: Phylogenomics and systematics of the Aptostichus atomarius species 
 complex (Araneae, Mygalomorphae, Euctenizidae) Supervisor: Dr. Jason E. Bond 
 
@@ -12,43 +12,40 @@ Major: Biology/Chemistry (Environmental Science) Minor: Geography
 
 ### RESEARCH and TEACHING EXPERIENCE 
 
-Auburn University 
 
-2018 -Present Postdoctoral Researcher, School of Fisheries, Aquaculture and Aquatic Sciences 
-Conservation genomics of threatened and endangered aquatic invertebrates. Collected 
-DNA from freshwater mussels, generated RADseq type data, and analyzed single 
-nucleotide polymorphisms (SNPs) in service of USFWS/Southeast Conservation 
-Genetics Lab genetic management plan development. 
-2017 -2018 Graduate Research Assistant, AMNH Museum Digitization Project 
-Performed informatic processing of digitized data files in preparation for migration to 
-Specify database, parsed, standardized and verified biological records using machine 
-learning/clustering algorithms and shell scripting. 
-2015 -2016 Graduate Research Assistant, AMNH Environmental DNA Project 
-Collaboration with Natural Heritage Program, performed DNA extractions on preserved 
-filtered water samples, used qPCR to detect presence of residual DNA from target 
-vertebrate species. 
-2015 -2017 Summer Graduate Teaching Assistant, Bioinformatics Bootcamp 
-Developed curriculum, demonstrated bioinformatic methods, provided one-on-one 
-instruction in computing skills to a diverse group of participants from every academic 
-career level, responsible for event logistics and coordination with administrative staff. 
-2012 -2015 NSF Predoctoral Fellow 
-Genetic signals of pigment variation in the Aptostichus atomarius species complex (CA):
-de-novo transcriptome assembly in a non-model organism using next-gen sequencing 
+#### Auburn University 
+
+2018-Present Postdoctoral Researcher, School of Fisheries, Aquaculture and Aquatic Sciences 
+Conservation genomics of threatened and endangered aquatic invertebrates. Collected DNA from freshwater mussels, generated RADseq type data, and analyzed single nucleotide polymorphisms (SNPs) in service of USFWS/Southeast Conservation Genetics Lab genetic management plan development. 
+
+2017-2018 Graduate Research Assistant, AMNH Museum Digitization Project 
+Performed informatic processing of digitized data files in preparation for migration to Specify database, parsed, standardized and verified biological records using machine learning/clustering algorithms and shell scripting. 
+
+2015-2016 Graduate Research Assistant, AMNH Environmental DNA Project 
+Collaboration with Natural Heritage Program, performed DNA extractions on preserved filtered water samples, used qPCR to detect presence of residual DNA from target vertebrate species. 
+
+2015-2017 Summer Graduate Teaching Assistant, Bioinformatics Bootcamp 
+Developed curriculum, demonstrated bioinformatic methods, provided one-on-one instruction in computing skills to a diverse group of participants from every academic career level, responsible for event logistics and coordination with administrative staff. 
+
+2012-2015 NSF Predoctoral Fellow 
+Genetic signals of pigment variation in the Aptostichus atomarius species complex (CA): de-novo transcriptome assembly in a non-model organism using next-gen sequencing 
+
+2011-2012 Graduate Teaching Assistant, Anatomy and Physiology I 
+Instructed labs, proctored tests and quizzes, recorded grades. 
+
 2011 -2012 Graduate Teaching Assistant, Anatomy and Physiology I 
 Instructed labs, proctored tests and quizzes, recorded grades. 
-2011 -2012 Graduate Teaching Assistant, Anatomy and Physiology I 
-Instructed labs, proctored tests and quizzes, recorded grades. 
+
 West Liberty University 
 2009 – 2010 Research Assistant I, Cardiovascular Research Lab 
-Performed and assisted with experiments, maintained cell lines, analyzed sequence data, 
-managed molecular lab; teaching duties included coverage of General Biology Lab for 
-majors (BIO125) and non-majors (BIO 106). 
+Performed and assisted with experiments, maintained cell lines, analyzed sequence data, managed molecular lab; teaching duties included coverage of General Biology Lab for majors (BIO125) and non-majors (BIO 106). 
+
 2008 – 2009 Collection Manager, Crayfish Conservation Lab 
-Collected and preserved specimens, compiled and organized associated field data, 
-generated morphological data, maintained live collection. 
+Collected and preserved specimens, compiled and organized associated field data, generated morphological data, maintained live collection. 
+
 ### PUBLICATIONS 
 
-2018 Godwin, R.L., Opatova, V., Garrison, N.L., Hamilton, C.A., & Bond, J.E. (2018). Phylogeny of a cosmopolitan family of morphologically conserved trapdoor spiders (Mygalomorphae, Ctenizidae) using Anchored Hybrid Enrichment, with a description of the family, Halonoproctidae Pocock 1901. Molecular phylogenetics and evolution, 126, 303-313. 
+2018 Godwin, R.L., Opatova, V., Garrison, N.L., Hamilton, C.A., & Bond, J.E. Phylogeny of a cosmopolitan family of morphologically conserved trapdoor spiders (Mygalomorphae, Ctenizidae) using Anchored Hybrid Enrichment, with a description of the family, Halonoproctidae Pocock 1901. Molecular phylogenetics and evolution, 126, 303-313. 
 
 2016 Folt, B., Garrison, N.L., Guyer, C., Rodriguez, J., & Bond, J. E. Phylogeography and evolution of the Red Salamander (Pseudotriton ruber). Molecular Phylogenetics and Evolution, 98, 97 – 100. 
 
