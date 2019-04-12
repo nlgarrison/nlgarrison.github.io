@@ -68,14 +68,16 @@ Collected and preserved specimens, compiled and organized associated field data,
 snorkeling), visual stream and habitat assessment, abiotic water quality assessment. Experience 
 collecting and identifying freshwater invertebrates. Experience collecting threatened and 
 endangered mussel species, including in-field swabbing for genetic material. 
+
 *Terrestrial* – Invertebrate collection (burrow excavation, sweep net, aerial net, beating, various 
 trapping and baiting methods), navigation with GPS and topological maps, plant and insect 
-identification, soil sampling, DBH, estimation of canopy cover, photography. 
-Laboratory 
+identification, soil sampling, DBH, estimation of canopy cover, photography.
+#### Laboratory
 *Molecular/Genetic* – Aseptic technique, reagent preparation, pipetting, RNA and DNA 
 extraction techniques, gel electrophoresis, PCR, PCR purification, cDNA library prep (RNAseq), 
 qPCR, processing of environmental DNA samples, cryo-preservation, ELISA, western blot, 
-tissue culture, tissue dissection. 
+tissue culture, tissue dissection.
+
 *Morphological* – Identification using taxonomic keys and revisions, insect pinning and 
 preservation, desiccation, microscopy of invertebrates, dissection, preservation of vouchered 
 tissues, rehydration, digital measurement, photography 
@@ -85,9 +87,11 @@ QGIS, TASSEL, STRUCTURE, Stacks, Geneious, BLAST, Exonerate, Trimmomatic, Trinit
 Ray, bowtie, samtools, BWA, IGV, FastQC, RAxML, IQ-TREE, ExaBayes, TransDecoder, 
 HaMStR, BEAST, BPP, ASTRAL, FUSTr, pyRAD, BaCoCa, MARE, Alicut/Aliscore, mafft, 
 Blast2GO, Trinotate, PopArt, SplitsTree, TOPALi, MEGAN, OpenRefine, pandas (Python Data 
-Analysis Library) 
+Analysis Library)
+
 *R packages* – LEA, PHRAPL, BioGEOBears, BAMMtools, PopGenome, DEseq, misc. 
-statistical and visualization packages 
+statistical and visualization packages
+
 *Languages* – Bash/Shell (esp. sed, grep, awk), Python, R 
 
 ### AWARDS and SCHOLARSHIPS 
@@ -126,14 +130,21 @@ statistical and visualization packages
 invertebrates and on-site identifications. 
 
 #### College of Sciences and Mathematics Outreach 
-2015 – 2017 Greater East Alabama Regional Science and Engineering Fair. Judge, grades 7-12. 
-2014 – 2017 AU Explore. Volunteer presenter of arachnid specimens, middle school students. 
-2015 Summer Science Institute. Assisted rising seniors with field collection. 
-2013 & 2015 GUTS. Designed/presented programming for K-6 students. 
-2013 Annual Women’s Leadership Symposium in Science and Mathematics. Panelist and 
-breakout session presenter, high school girls from throughout state. Graduate Women in Science 
-2015 – 2017 Junior Mad Scientist. Designed interactive biology programming for K-6 students. Miller Writing Center/University Honors College 
-2012 – 2015 NSF Graduate Research Fellowship Program Application Workshop. Served on panel of NSF Fellows, spoke to students about grant writing and successful fellowship applications, interactive personal statement writing session. NSF Research Experiences for 
-Undergraduates (REU) 
-2016 – 2017 Assisted undergraduates in the Computational Biology summer program during Bioinformatics Bootcamp. Informal presentation on careers in biology. 
+2015 – 2017 Greater East Alabama Regional Science and Engineering Fair. Judge, grades 7-12.
+
+2014 – 2017 AU Explore. Volunteer presenter of arachnid specimens, middle school students.
+
+2015 Summer Science Institute. Assisted rising seniors with field collection.
+
+2013 & 2015 GUTS. Designed/presented programming for K-6 students.
+
+2013 Annual Women’s Leadership Symposium in Science and Mathematics. Panelist and breakout session presenter, high school girls from throughout state. Graduate Women in Science
+
+2015 – 2017 Junior Mad Scientist. Designed interactive biology programming for K-6 students. Miller Writing Center/University Honors College
+
+2012 – 2015 NSF Graduate Research Fellowship Program Application Workshop. Served on panel of NSF Fellows, spoke to students about grant
+writing and successful fellowship applications, interactive personal statement writing session. NSF Research Experiences for Undergraduates (REU)
+
+2016 – 2017 Assisted undergraduates in the Computational Biology summer program during Bioinformatics Bootcamp. Informal presentation on careers in biology.
+
 2012 Mentored undergraduate during REU sponsored spider phylogeography project. 
