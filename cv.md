@@ -36,7 +36,8 @@ Instructed labs, proctored tests and quizzes, recorded grades.
 2011 -2012 Graduate Teaching Assistant, Anatomy and Physiology I 
 Instructed labs, proctored tests and quizzes, recorded grades. 
 
-West Liberty University 
+#### West Liberty University
+
 2009 – 2010 Research Assistant I, Cardiovascular Research Lab 
 Performed and assisted with experiments, maintained cell lines, analyzed sequence data, managed molecular lab; teaching duties included coverage of General Biology Lab for majors (BIO125) and non-majors (BIO 106). 
 
@@ -89,15 +90,15 @@ Analysis Library)
 statistical and visualization packages 
 *Languages* – Bash/Shell (esp. sed, grep, awk), Python, R 
 
-#### AWARDS and SCHOLARSHIPS 
+### AWARDS and SCHOLARSHIPS 
 
-2016 BSGSA travel award 
-2014 European Society of Arachnology Student Presentation Competition, 3rd place 
-2012 NSF Graduate Research Fellowship 2009 West Liberty University Outstanding Biology 
+2016 BSGSA travel award
+2014 European Society of Arachnology Student Presentation Competition, 3rd place
+2012 NSF Graduate Research Fellowship 2009 West Liberty University Outstanding Biology
 2014 European Society of Arachnology Student Presentation Competition, 3rd place 
 2012 NSF Graduate Research Fellowship 2009 West Liberty University Outstanding Biology Student of the Year 
 
-#### PRESENTATIONS 
+### PRESENTATIONS 
 2018 (Invited Talk) Nicole L. Garrison, Jason E. Bond, Chris A. Hamilton. Exploration of species boundaries in a trapdoor spider complex: an integrative next-generation sequencing approach. Systematics, Evolution, and Biodiversity Section. Entomological Society of America  Joint Meeting. Vancouver, BC, Canada. 
 
 2016 (Invited Talk) Nicole L. Garrison. Life Underground: Challenges in Mygalomorph Spider Systematics. E.O. Grundset Lecture Series. SAU, Collegedale, Tennessee. 
