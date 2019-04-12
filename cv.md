@@ -97,9 +97,13 @@ statistical and visualization packages
 ### AWARDS and SCHOLARSHIPS 
 
 2016 BSGSA travel award
+
 2014 European Society of Arachnology Student Presentation Competition, 3rd place
+
 2012 NSF Graduate Research Fellowship 2009 West Liberty University Outstanding Biology
+
 2014 European Society of Arachnology Student Presentation Competition, 3rd place 
+
 2012 NSF Graduate Research Fellowship 2009 West Liberty University Outstanding Biology Student of the Year 
 
 ### PRESENTATIONS 
