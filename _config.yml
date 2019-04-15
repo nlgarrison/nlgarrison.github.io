@@ -24,11 +24,11 @@ description:
 # List of links in the navigation bar
 navbar-links:
   CV: "cv"
-  #Research: 
-  #  - Phylogenetics: "research"
-  #  - Conservation: "research"
-  #  - Systematics: "research"
-  #Outreach: "outreach"
+  Research: 
+    - Phylogenetics: "research"
+    - Conservation: "research"
+    - Systematics: "research"
+  Outreach: "outreach"
   #Bioinformatics: "bioinfo"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -58,7 +58,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-#page-img: "/img/musselstream.png"
+page-img: "/img/musselstream.png"
 
 # --- Footer options --- #
 
@@ -74,11 +74,10 @@ author:
 social-network-links:
   rss: true
   email: "nlg0006@auburn.edu"
-  facebook: daattali
-  github: daattali
+  github: nlgarrison
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: daattali
+  linkedin: ngarrison19
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
