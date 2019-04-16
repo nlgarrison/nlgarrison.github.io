@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: Conservation|Systematics|Bioinformatics
+subtitle: Conservation | Systematics | Genomics
 ---
 
-TEST
+
