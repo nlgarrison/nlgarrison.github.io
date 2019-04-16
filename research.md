@@ -10,7 +10,7 @@ I've been lucky enough to work with a diversity of critters in my research caree
 
 We conserve only what we know; things with names, things with stories. I may not be able to make everyone love spiders, for example, but I can introduce them to the world and see where it goes. I can give them names and learn their stories. I can try.
 
-<img src="/img/Adult_female_Cardinal_Jumper_(Phidippus_cardinalis)_by_Thomas_Shahan.png" alt="How could you not love this face?? *Phiddipus cardinalis* female." class="inline"/>
+<img src="/img/Adult_female_Cardinal_Jumper_(Phidippus_cardinalis)_by_Thomas_Shahan.png" id="How could you not love this face?? *Phiddipus cardinalis* female." class="inline"/>
 
 #### Freshwater mussel conservation genomics
 
