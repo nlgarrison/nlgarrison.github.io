@@ -24,10 +24,10 @@ description:
 # List of links in the navigation bar
 navbar-links:
   CV: "cv"
-  Research: 
-    - Phylogenetics: "research"
-    - Conservation: "research"
-    - Systematics: "research"
+  Research: "research" 
+  #  - Phylogenetics: "research"
+  #  - Conservation: "research"
+  #  - Systematics: "research"
   Outreach: "outreach"
   #Bioinformatics: "bioinfo"
 
