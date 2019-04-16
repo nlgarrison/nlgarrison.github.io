@@ -4,8 +4,9 @@ title: Research
 subtitle: Conservation | Systematics | Genomics
 ---
 
-I have always been fascinated with both the diversity of invertebrates and our disproportionate understanding of their biology.  Despite their abundance, ubiquity, and ecological significance we lack the most basic knowledge of many organisms in this incredible branch of the tree of life. 
+I have always been fascinated with both the diversity of invertebrates and our disproportionate understanding of their biology.  Despite their abundance, ubiquity, and ecological significance we lack the most basic knowledge of many organisms in this incredible branch of the tree of life. Much of the diversity that exists has yet to be described. Even for many of the species which have been described, their distribution across the landscape and the genetic relationships within and between populations are not well defined.
 
+In my research, I use a combination of genomic data and bioinformatic tools to better understand phylogenetic relationships and ask questions about evolution and speciation. I apply these modern tools to understudied invertebrates, with a focus on conservation.
 
 
 
