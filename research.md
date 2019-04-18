@@ -8,6 +8,7 @@ I have always been fascinated with both the diversity of invertebrates and our d
 
 In my research, I use a combination of genomic data and bioinformatic tools to better understand phylogenetic relationships and ask questions about evolution and speciation. I apply these modern tools to understudied invertebrates, with a focus on conservation.
 
+<img src="/img/musselstream.png" class="inline" align="middle"/>
 
 #### Freshwater mussel conservation genomics
 
@@ -21,4 +22,4 @@ During my dissertation research I investigated the genetic relationships and evo
 
 
 #### Crayfish ecology and conservation
-<img src="/img/dubius.jpg" id="*Cambarus dubius* in burrow." class="inline"/>
+<img src="/img/dubius.jpg" id="*Cambarus dubius* in burrow." class="inline" align="middle"/>
