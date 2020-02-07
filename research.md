@@ -20,7 +20,7 @@ My current research projects seek to characterize the genetic diversity of threa
 
 <img style="float: right;" hspace="5" src="/img/openburrow.jpg" width="25%"/>
 
-<img style="float: left;" hspace="10" src="/img/spidy.jpg" width="50%"/>
+<img style="float: left;" hspace="5" src="/img/spidy.jpg" width="50%"/>
 
 #### Spider systematics and phylogenetics
 
