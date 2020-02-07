@@ -14,9 +14,11 @@ In my research, I use a combination of genomic data and bioinformatic tools to b
 
 My current research projects seek to characterize the genetic diversity of threatened and endangered mussel species to help develop conservation strategies and make management decisions. The U.S. Southeast is a global diversity hotspot for mussels (and crayfish, and fish, and a <a href="https://www.cepf.net/our-work/biodiversity-hotspots/north-american-coastal-plain/species"> lot of other things</a>), but they face significant anthropogenic threats and many are either going or have already gone extinct. I am using genomic methods to generate thousands of genetic markers and understand the diversity of several species of concern (*Margaritifera hembeli*, *Cumberlandia monodonta*, *Lampsilis abrupta*, *Epioblasma brevidens*, and *Cyprogenia stegaria*). This research should yield valuable information about patterns of diverstiy in freshwater systems and help guide captive propagation/reintroduction efforts for these species.
 
-<img style="float: left;" hspace="10" src="/img/fuzzybebe.jpg" width="50%"/>
-<img style="float: center;" hspace="10" src="/img/angrybebe.jpg" width="50%"/>
-<img style="float: right;" hspace="10" src="/img/openburrow.jpg" width="50%"/>
+<img style="float: left;" hspace="5" src="/img/fuzzybebe.jpg" width="25%"/>
+
+<img style="float: center;" hspace="5" src="/img/angrybebe.jpg" width="25%"/>
+
+<img style="float: right;" hspace="5" src="/img/openburrow.jpg" width="25%"/>
 
 <img style="float: left;" hspace="10" src="/img/spidy.jpg" width="50%"/>
 
