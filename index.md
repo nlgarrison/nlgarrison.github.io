@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Postdoctoral researcher, Auburn University...
+subtitle: Postdoctoral Research Fellow, Auburn University
 use-site-title: true
 ---
 
