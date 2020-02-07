@@ -20,7 +20,7 @@ My current research projects seek to characterize the genetic diversity of threa
 
 During my dissertation research I investigated the genetic relationships and evolution of spiders at multiple levels.  I used transcriptomic sequences to generate a backbone <a href="https://peerj.com/articles/1719/"> tree of life for spiders</a>. Through my research I was able to uncover novel family-level relationships, resolve uncertainties in the previously hypothesized trees, highlight rapid diversifications of ground hunting spiders, and provide evidence for the ancient origin of the orb web. I also looked at the pattern and process of speciation within a species complex of Californian trapdoor spiders (*Aptostichus atomarius* complex) using a reduced representation genomic sequencing approach (Anchored Hybrid Enrichment). Within that complex I compared the transcriptomic profiles of dune endemic species (*A. miwok* and *A. stephencolberti*) to those of their inland sister species, identifying genes that may be associated with dune adapation.
 
-<img style="float: right;" src="/img/dubius.jpg" alt="crawcrab" width="400"/>
+<img style="float: right;" hspace=20 src="/img/dubius.jpg" alt="crawcrab" width="400"/>
 
 #### Crayfish ecology and conservation
 
