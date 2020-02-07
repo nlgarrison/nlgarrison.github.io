@@ -3,7 +3,7 @@ layout: minimal
 subtitle: curriculum vitae
 ---
 
-## EDUCATION
+### EDUCATION
 
 #### 2018 PhD Auburn University, Department of Biological Sciences
 Dissertation: Phylogenomics and systematics of the *Aptostichus atomarius* species
@@ -12,7 +12,7 @@ complex (Araneae, Mygalomorphae, Euctenizidae)
 #### 2009 B.S. West Liberty University
 Major: Biology/Chemistry (Environmental Science) Minor: Geography
 
-## RESEARCH and TEACHING EXPERIENCE
+### RESEARCH and TEACHING EXPERIENCE
 
 **2018 - Present**   Postdoctoral Fellow, School of Fisheries, Aquaculture and Aquatic Sciences  
 <blockquote> Conservation genomics of threatened and endangered aquatic invertebrates. Collected DNA from freshwater mussels, generated RADseq type data, and analyzed single nucleotide polymorphisms (SNPs) in service of USFWS/Southeast Conservation Genetics Lab genetic management plan development. </blockquote>
@@ -49,7 +49,7 @@ Major: Biology/Chemistry (Environmental Science) Minor: Geography
 
 **2020** (*in prep*) **N.L. Garrison**, Whelan, N., Johnson, P. Conservation genomics of the threatened freshwater mussel species, *Margaritifera hembeli* (Conrad 1838). Conservation Genetics.
 
-**2020** (*submitted*) N.L. Garrison, Brewer, M.S., Bond, J.E. Shifting evolutionary sands: transcriptome characterization of the *Aptostichus atomarius* species complex. BMC Evolutionary Biology.
+**2020** (*submitted*) **N.L. Garrison**, Brewer, M.S., Bond, J.E. Shifting evolutionary sands: transcriptome characterization of the *Aptostichus atomarius* species complex. BMC Evolutionary Biology.
 
 **2018** Godwin, R.L., Opatova, V., **Garrison, N.L.**, Hamilton, C.A., & Bond, J.E. Phylogeny of a cosmopolitan family of morphologically conserved trapdoor spiders (Mygalomorphae, Ctenizidae) using Anchored Hybrid Enrichment, with a description of the family, Halonoproctidae Pocock 1901. Molecular phylogenetics and evolution, 126, 303-313.
 
@@ -146,65 +146,65 @@ Comparative ecology of *Cambarus (C.) b. bartonii* and *Orconectes (C.) obscurus
 **2013** Nicole L. Garrison, Jason E. Bond. Next generation sequencing and de novo assembly of a non-model organism *Aptostichus stephencolberti*. Auburn University Graduate Scholars Forum. Auburn, Alabama.
 
 ### LEADERSHIP and OUTREACH
-School of Fisheries, Aquaculture, and Aquatic Sciences, Auburn University
+####School of Fisheries, Aquaculture, and Aquatic Sciences, Auburn University
 
-2019 Auburn Fisheries Field Day (6 contact hours)
+**2019** Auburn Fisheries Field Day (6 contact hours)
 •	Hands-on presentation of freshwater invertebrate biology (crayfishes, mussels, snails)
 •	Live animal handling and interpretation, all age groups
 
-Auburn Museum of Natural History (AUMNH), Auburn University
+####Auburn Museum of Natural History (AUMNH), Auburn University
 
-2019 	Bones and Boos (4 contact hours)
+**2019** 	Bones and Boos (4 contact hours)
 •	Spider walk and interpretation, all ages
 
-2014 – 2017 Field Days, Wehle Nature Center (24 contact hours)
+**2014 – 2017** Field Days, Wehle Nature Center (24 contact hours)
 •	Designed science programming for K-8 class groups, hands-on outdoor activity on spider and insect biology
 •	Demonstrated field collection methods and identification of specimens
 
-2013 – 2017 AUMNH Open House (24 contact hours)
+**2013 – 2017** AUMNH Open House (24 contact hours)
 •	Presented live and preserved arachnid and millipede specimens to public, all age groups
 •	Interpreted invertebrate ecology and biology
 
-2015 – 2016 Junior Curator Camp, Auburn Campus and abroad (16 contact hours)
+**2015 – 2016** Junior Curator Camp, Auburn Campus and abroad (16 contact hours)
 •	Assisted with field collection of terrestrial invertebrates (primarily insects)
 •	On-site identifications of insects and spiders
 •	Instructed grade 5-8 students in dichotomous key and microscope use
 
-College of Sciences and Mathematics Outreach, Auburn University
+####College of Sciences and Mathematics Outreach, Auburn University
 
-2015 – 2017 Greater East Alabama Regional Science and Engineering Fair (12 contact hours)
+**2015 – 2017** Greater East Alabama Regional Science and Engineering Fair (12 contact hours)
 •	Judged science fair projects and provided feedback, grades 7-12
 
-2014 – 2017 AU Explore (24 contact hours)
+**2014 – 2017** AU Explore (24 contact hours)
 •	Volunteer presenter of arachnid specimens, middle school students
 
-2015 Summer Science Institute (18 contact hours)
+**2015** Summer Science Institute (18 contact hours)
 •	Assisted rising seniors with field collection and identification of spiders and invertebrates
 
-2013 & 2015 Getting Under the Surface (GUTS, 4 contact hours)
+**2013 & 2015** Getting Under the Surface (GUTS, 4 contact hours)
 •	Designed and presented arachnid programming, K-6 students
 
-2013 Annual Women’s Leadership Symposium in Science and Mathematics (4 contact hours)
+**2013** Annual Women’s Leadership Symposium in Science and Mathematics (4 contact hours)
 •	Panelist and breakout session presenter, high school girls from throughout state
 
-Graduate Women in Science, Auburn University
+####Graduate Women in Science, Auburn University
 
-2015 – 2017 Junior Mad Scientist (12 contact hours)
+**2015 – 2017** Junior Mad Scientist (12 contact hours)
 •	Designed interactive general biology and invertebrate diversity programming, K-6 students
 
-Miller Writing Center/University Honors College, Auburn University
+####Miller Writing Center/University Honors College, Auburn University
 
-2012 – 2015 NSF Graduate Research Fellowship Program Application Workshop (8 contact hours)
+**2012 – 2015** NSF Graduate Research Fellowship Program Application Workshop (8 contact hours)
 •	Served on panel of NSF Fellows, spoke to undergraduate students about grant writing and successful fellowship applications
 •	Provided an interactive personal statement writing tutorial
 
-NSF Research Experiences for Undergraduates (REU), Auburn University
+####NSF Research Experiences for Undergraduates (REU), Auburn University
 
-2016 – 2017 Instructed undergraduates in the Computational Biology summer program during Bioinformatics Bootcamp, presented on careers in biology
+**2016 – 2017** Instructed undergraduates in the Computational Biology summer program during Bioinformatics Bootcamp, presented on careers in biology
 
-2012 Mentored and supervised undergraduate (later recruited into and graduated from masters program at Auburn) during REU sponsored spider phylogeography project
-______________________________________________________________________________________________________________
-PROFESSIONAL AFFILIATONS and SERVICE
+**2012** Mentored and supervised undergraduate (later recruited into and graduated from masters program at Auburn) during REU sponsored spider phylogeography project
+
+###PROFESSIONAL AFFILIATONS and SERVICE
 
 Member, Society for Systematic Biologists
 Member, Graduate Women in Science
