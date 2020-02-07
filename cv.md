@@ -3,7 +3,7 @@ layout: minimal
 subtitle: curriculum vitae
 ---
 
-### E####DUCATION
+### EDUCATION
 
 #### 2018 PhD Auburn University, Department of Biological Sciences
 Dissertation: Phylogenomics and systematics of the *Aptostichus atomarius* species
