@@ -146,13 +146,13 @@ Comparative ecology of *Cambarus (C.) b. bartonii* and *Orconectes (C.) obscurus
 **2013** Nicole L. Garrison, Jason E. Bond. Next generation sequencing and de novo assembly of a non-model organism *Aptostichus stephencolberti*. Auburn University Graduate Scholars Forum. Auburn, Alabama.
 
 ### LEADERSHIP and OUTREACH
-####School of Fisheries, Aquaculture, and Aquatic Sciences, Auburn University
+#### School of Fisheries, Aquaculture, and Aquatic Sciences, Auburn University
 
 **2019** Auburn Fisheries Field Day (6 contact hours)
 •	Hands-on presentation of freshwater invertebrate biology (crayfishes, mussels, snails)
 •	Live animal handling and interpretation, all age groups
 
-####Auburn Museum of Natural History (AUMNH), Auburn University
+#### Auburn Museum of Natural History (AUMNH), Auburn University
 
 **2019** 	Bones and Boos (4 contact hours)
 •	Spider walk and interpretation, all ages
@@ -170,7 +170,7 @@ Comparative ecology of *Cambarus (C.) b. bartonii* and *Orconectes (C.) obscurus
 •	On-site identifications of insects and spiders
 •	Instructed grade 5-8 students in dichotomous key and microscope use
 
-####College of Sciences and Mathematics Outreach, Auburn University
+#### College of Sciences and Mathematics Outreach, Auburn University
 
 **2015 – 2017** Greater East Alabama Regional Science and Engineering Fair (12 contact hours)
 •	Judged science fair projects and provided feedback, grades 7-12
@@ -187,24 +187,24 @@ Comparative ecology of *Cambarus (C.) b. bartonii* and *Orconectes (C.) obscurus
 **2013** Annual Women’s Leadership Symposium in Science and Mathematics (4 contact hours)
 •	Panelist and breakout session presenter, high school girls from throughout state
 
-####Graduate Women in Science, Auburn University
+#### Graduate Women in Science, Auburn University
 
 **2015 – 2017** Junior Mad Scientist (12 contact hours)
 •	Designed interactive general biology and invertebrate diversity programming, K-6 students
 
-####Miller Writing Center/University Honors College, Auburn University
+#### Miller Writing Center/University Honors College, Auburn University
 
 **2012 – 2015** NSF Graduate Research Fellowship Program Application Workshop (8 contact hours)
 •	Served on panel of NSF Fellows, spoke to undergraduate students about grant writing and successful fellowship applications
 •	Provided an interactive personal statement writing tutorial
 
-####NSF Research Experiences for Undergraduates (REU), Auburn University
+#### NSF Research Experiences for Undergraduates (REU), Auburn University
 
 **2016 – 2017** Instructed undergraduates in the Computational Biology summer program during Bioinformatics Bootcamp, presented on careers in biology
 
 **2012** Mentored and supervised undergraduate (later recruited into and graduated from masters program at Auburn) during REU sponsored spider phylogeography project
 
-###PROFESSIONAL AFFILIATONS and SERVICE
+### PROFESSIONAL AFFILIATONS and SERVICE
 
 Member, Society for Systematic Biologists
 Member, Graduate Women in Science
