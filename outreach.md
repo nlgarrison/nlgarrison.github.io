@@ -7,8 +7,12 @@ I consider my role as an advocate for science as a critical aspect of research a
 
 <br>
 
-<img style="float: center;" hspace="3" src="/img/DSCN7844.jpg" width="75%"/>
+<img style="float: left;" hspace="3" src="/img/DSCN7841.jpg" width="50%"/>
+
+<img style="float: right;" hspace="3" src="/img/DSCN7826.jpg" width="50%"/>
 
 <br>
 
-<img style="float: center;" hspace="3" src="/img/DSCN7826.jpg" width="75%"/>
+<img style="float: left;" hspace="3" src="/img/DSCN7881.jpg" width="100%"/>
+
+<img style="float: right;" hspace="3" src="/img/DSCN78291.jpg" width="100%"/>
