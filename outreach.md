@@ -13,6 +13,4 @@ I consider my role as an advocate for science as a critical aspect of research a
 
 <br>
 
-<img style="float: left;" hspace="" src="/img/DSCN7881.jpg" width="50%"/>
-
-<img style="float: right;" hspace="" src="/img/DSCN8291.jpg" width="50%"/>
+<img style="float: left;" hspace="" src="/img/DSCN7881.jpg" width="100%"/>
